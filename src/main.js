@@ -10,7 +10,7 @@ $(function() {
     }
   }
   newCanvas();
-
+  /////hellooooo!
   function newPallete() {
     var paint;
     var pallete = $('#pallete');
